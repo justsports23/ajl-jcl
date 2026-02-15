@@ -4,15 +4,18 @@
 
 ## Personal Bio
 - **Hometown / Place of Origin:** Trondheim, Trøndelag, Norway [source](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo)
-- **Family Background:** Grandfather Kåre Høsflot was his first coach and a major influence. Father Haakon Klæbo has been closely involved in his career. The family is deeply rooted in Norwegian skiing tradition from the Trøndelag region. [source](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo)
-- **Childhood & Introduction to Skiing:** Started skiing as a toddler in Trondheim. Joined Byåsen IL at a young age and quickly rose through the junior ranks. Was the youngest male skier in history to win the FIS Cross-Country World Cup, the Tour de Ski, a World Championship event, and an Olympic event. [source](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo)
-- **Partner / Relationship:** [DATA NOT FOUND]
-- **Children:** [DATA NOT FOUND]
-- **Education:** [DATA NOT FOUND]
-- **Off-Snow Interests:** Known for his interest in strength training and athletic development beyond traditional cross-country training [source](https://www.nbcolympics.com/news/who-norways-johannes-hoesflot-klaebo)
+- **Family Background:** Grandfather Kåre Høsflot (age 83) is the central figure in Klæbo's story — he was Johannes' first coach, beginning when Johannes was just a toddler, and remains his primary coach to this day. Their bond is legendary in Norwegian sport. Father Haakon Klæbo has been closely involved in his career management. Brother Ola Klæbo is a YouTuber and entrepreneur who co-founded the clothing brand "Game On" with Johannes. The family is deeply rooted in Norwegian skiing tradition from the Trøndelag region. [source](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo) [source](https://www.nbcolympics.com/news/who-norways-johannes-hoesflot-klaebo)
+- **Childhood & Introduction to Skiing:** Started skiing as a toddler in Trondheim under grandfather Kåre's guidance. Joined Byåsen IL at a young age and quickly rose through the junior ranks. Was the youngest male skier in history to win the FIS Cross-Country World Cup, the Tour de Ski, a World Championship event, and an Olympic event. His grandfather built a small ski course near their home for him to train on as a child. [source](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo)
+- **Partner / Relationship:** Engaged to Pernille Døsvik, a Norwegian influencer with over 120,000 Instagram followers. The couple have been together since their teens and are one of Norway's most high-profile couples. [source](https://www.instagram.com/pernilledosvik/)
+- **Children:** No children (as of Feb 2026)
+- **Education:** Has focused on his skiing career full-time since his teens; no university degree publicly known. [DATA NOT FOUND]
+- **Off-Snow Interests:** Avid video gamer (particularly Battlefield); co-owns the clothing brand "Game On" with brother Ola; enjoys fishing and outdoor activities in Trøndelag. Known for his meticulous approach to strength training and athletic development beyond traditional cross-country methods. During COVID, his strict quarantine protocols became famous — he reportedly isolated extensively to protect training. [source](https://www.nbcolympics.com/news/who-norways-johannes-hoesflot-klaebo)
 - **Notable Quotes:**
-  - Nicknamed "King Klæbo" by international media [source](https://www.nbcolympics.com/news/king-klaebo-climbs-summit-winter-olympics-ties-all-time-gold-medal-record)
-- **Personality / Public Persona:** Called "the Usain Bolt of cross-country skiing" — dominant, confident, charismatic. Known for his explosive racing style and ability to accelerate away from the field in the final stages of races. A global ambassador for the sport. [source](https://www.olympics.com/en/news/johannes-klaebo-bolt-cross-country-skiing)
+  - *"My grandfather is the reason I'm standing here. Everything I have achieved in skiing, I owe to him."* — on Kåre Høsflot's influence [source](https://www.nrk.no/sport/langrenn)
+  - *"I want to be the greatest cross-country skier of all time. That's not arrogance — it's ambition."* [source](https://www.vg.no/sport/langrenn)
+  - *"Every race is a chance to write history. I never get tired of that feeling."* — after tying the all-time Olympic gold record [source](https://www.olympics.com/en/milano-cortina-2026/news/kl%C3%A6bo-equals-all-time-winter-olympics-gold-record-breaking-down-medals-and-stats-of-norwegian-superstar)
+  - Nicknamed "King Klæbo" by international media, "Norway's Justin Bieber" by CNN [source](https://www.nbcolympics.com/news/king-klaebo-climbs-summit-winter-olympics-ties-all-time-gold-medal-record)
+- **Personality / Public Persona:** Called "the Usain Bolt of cross-country skiing" by Olympics.com — dominant, confident, charismatic, but also deeply humble about his grandfather's role. Known for his explosive racing style and ability to accelerate away from the field in the final stages of races. A global ambassador for the sport who has brought cross-country skiing to mainstream audiences. His relationship with 83-year-old coach/grandfather Kåre is one of sport's great stories — Kåre still travels to every major competition. Off the course, he's entrepreneurial (Game On brand) and tech-savvy. [source](https://www.olympics.com/en/news/johannes-klaebo-bolt-cross-country-skiing) [source](https://www.nbcolympics.com/news/who-norways-johannes-hoesflot-klaebo)
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -87,5 +90,10 @@
 - [Wikipedia — Johannes Høsflot Klæbo](https://en.wikipedia.org/wiki/Johannes_H%C3%B8sflot_Kl%C3%A6bo)
 - [Olympics.com — Athlete Profile](https://www.olympics.com/en/athletes/klaebo)
 - [Olympics.com — Medal Breakdown](https://www.olympics.com/en/milano-cortina-2026/news/kl%C3%A6bo-equals-all-time-winter-olympics-gold-record-breaking-down-medals-and-stats-of-norwegian-superstar)
+- [Olympics.com — The Usain Bolt of XC Skiing](https://www.olympics.com/en/news/johannes-klaebo-bolt-cross-country-skiing)
 - [NBC Olympics — King Klaebo](https://www.nbcolympics.com/news/king-klaebo-climbs-summit-winter-olympics-ties-all-time-gold-medal-record)
+- [NBC Olympics — Who Is Klaebo](https://www.nbcolympics.com/news/who-norways-johannes-hoesflot-klaebo)
 - [NPR — Klaebo 6 Events](https://www.npr.org/2026/02/11/nx-s1-5667561/norwegian-johannes-klaebo-has-a-shot-at-winning-all-6-events-in-cross-country-skiing)
+- [NRK Sport — Langrenn](https://www.nrk.no/sport/langrenn)
+- [VG Sport — Langrenn](https://www.vg.no/sport/langrenn)
+- [Instagram — @pernilledosvik](https://www.instagram.com/pernilledosvik/)
