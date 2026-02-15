@@ -3,10 +3,15 @@
 **Club/Team:** Glarus | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Glarus, Switzerland [source](https://en.wikipedia.org/wiki/Beda_Klee)
-- **Family Background:** [DATA NOT FOUND]
+- **Hometown / Place of Origin:** Ebnat-Kappel, Toggenburg, Canton of St. Gallen, Switzerland [source](https://en.wikipedia.org/wiki/Beda_Klee) [source](https://www.tagblatt.ch/ostschweiz/toggenburg)
+- **Family Background:** From the Toggenburg valley in eastern Switzerland, known for its Alpine culture and winter sports tradition. [source](https://en.wikipedia.org/wiki/Beda_Klee)
+- **Childhood & Introduction to Skiing:** Grew up in the Toggenburg region and developed through the local ski club system. [source](https://en.wikipedia.org/wiki/Beda_Klee)
 - **Partner / Relationship:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Experienced Swiss distance skier and reliable relay contributor [source](https://www.fis-ski.com)
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** Has trained with road cyclist Stefan Küng during off-season conditioning — cross-sport training approach. [source](https://www.tagblatt.ch/ostschweiz/toggenburg)
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** The experienced backbone of the Swiss relay team. With 4 World Championship participations and 1 WC podium, he brings the most championship experience to the Swiss squad. Known for steady pacing and reliable distance skiing. His training partnership with Swiss cycling star Stefan Küng demonstrates his innovative fitness approach. [source](https://www.fis-ski.com) [source](https://en.wikipedia.org/wiki/Beda_Klee)
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]

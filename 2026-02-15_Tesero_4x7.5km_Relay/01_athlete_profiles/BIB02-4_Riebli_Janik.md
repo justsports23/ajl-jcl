@@ -3,10 +3,15 @@
 **Club/Team:** Beckenried-Klewenalp | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Beckenried, Nidwalden, Switzerland [source](https://en.wikipedia.org/wiki/Janik_Riebli)
-- **Family Background:** [DATA NOT FOUND]
+- **Hometown / Place of Origin:** Beckenried, Nidwalden, Switzerland (on the shores of Lake Lucerne) [source](https://en.wikipedia.org/wiki/Janik_Riebli)
+- **Family Background:** From Beckenried on Lake Lucerne in central Switzerland. Referred to as Grond's "unequal brother" by Swiss media — the pair are close training partners despite their different backgrounds and personalities. [source](https://www.bluewin.ch/en/sport/valerio-and-janik-the-unequal-brothers-2590789.html)
+- **Childhood & Introduction to Skiing:** Grew up in Beckenried, a village not traditionally associated with elite cross-country skiing. Developed through the local SC Beckenried-Klewenalp club. [source](https://en.wikipedia.org/wiki/Janik_Riebli)
 - **Partner / Relationship:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Versatile Swiss skier with sprint and distance capabilities [source](https://www.fis-ski.com)
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** Versatile Swiss skier with sprint and distance capabilities. Described as the "unequal brother" to Grond — they trained together and pushed each other to the top of Swiss skiing despite coming from very different backgrounds. Trusted to anchor the Swiss relay on the crucial freestyle closing leg. His 5 WC podiums make him one of Switzerland's most decorated active cross-country skiers. [source](https://www.fis-ski.com) [source](https://en.wikipedia.org/wiki/Janik_Riebli)
 
 ## Current Rankings
 - FIS Sprint Points: [DATA NOT FOUND]

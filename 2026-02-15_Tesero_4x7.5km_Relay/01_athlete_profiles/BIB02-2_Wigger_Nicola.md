@@ -5,8 +5,13 @@
 ## Personal Bio
 - **Hometown / Place of Origin:** [DATA NOT FOUND]
 - **Family Background:** [DATA NOT FOUND]
+- **Childhood & Introduction to Skiing:** [DATA NOT FOUND]
 - **Partner / Relationship:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Developing Swiss distance skier making his Olympic debut [source](https://www.fis-ski.com)
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** Developing Swiss distance skier making his Olympic debut. The least-known member of the Swiss relay team, but trusted with the classic second leg — a testament to the Swiss coaches' belief in his steady pacing. His best WC result of 14th at Oberhof shows he can hold his own against established names. [source](https://www.fis-ski.com)
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
