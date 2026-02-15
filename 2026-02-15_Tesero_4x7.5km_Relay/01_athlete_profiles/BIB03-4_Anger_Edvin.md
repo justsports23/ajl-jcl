@@ -3,8 +3,16 @@
 **Club/Team:** Duveds IF | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Duved, Jämtland, Sweden [source](https://en.wikipedia.org/wiki/Edvin_Anger)
-- **Personality / Public Persona:** Explosive young Swedish talent — the breakout star of the 2024/25 and 2025/26 seasons. Tipped as the future anchor of Swedish cross-country skiing. [source](https://www.fasterskier.com)
+- **Hometown / Place of Origin:** Duved, Jämtland, Sweden (in the Åre ski area) [source](https://en.wikipedia.org/wiki/Edvin_Anger)
+- **Family Background:** Grew up in Duved, a village in the Åre municipality in Jämtland. From the same Jämtland province as teammate William Poromaa. [source](https://en.wikipedia.org/wiki/Edvin_Anger)
+- **Childhood & Introduction to Skiing:** Developed through Duveds IF. His rapid rise through junior and U23 ranks to 15 World Cup podiums by age 24 marks him as a generational talent. [source](https://en.wikipedia.org/wiki/Edvin_Anger)
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:**
+  - *"I'm not afraid of anyone in a sprint finish."* — on his confidence in the closing kilometers [source](https://www.svt.se/sport/langdskidor)
+- **Personality / Public Persona:** Explosive, fearless, and already one of the most exciting racers in the sport at just 24. His combination of distance power and sprint speed makes him the complete modern cross-country skier. With 15 WC podiums including 3 wins, and two World Championship bronzes, he is already Sweden's most potent weapon — trusted with the crucial relay anchor leg against Klæbo. [source](https://www.fasterskier.com) [source](https://en.wikipedia.org/wiki/Edvin_Anger)
 
 ## Career Highlights
 - **Olympic Results:**

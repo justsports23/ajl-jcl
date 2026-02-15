@@ -4,7 +4,15 @@
 
 ## Personal Bio
 - **Hometown / Place of Origin:** Åsarna, Jämtland, Sweden [source](https://en.wikipedia.org/wiki/William_Poromaa)
-- **Personality / Public Persona:** Emerging Swedish distance star with Sámi heritage, known as a long-distance specialist [source](https://en.wikipedia.org/wiki/William_Poromaa)
+- **Family Background:** Comes from Åsarna in the Jämtland region, a heartland of Swedish cross-country skiing. Has Sámi heritage — the indigenous people of northern Scandinavia — which is a source of personal pride. The name "Poromaa" has Sámi linguistic roots. [source](https://en.wikipedia.org/wiki/William_Poromaa)
+- **Childhood & Introduction to Skiing:** Developed through the Åsarna IK club, one of Sweden's most successful skiing clubs. Grew up surrounded by world-class skiing infrastructure in Jämtland. [source](https://en.wikipedia.org/wiki/William_Poromaa)
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:**
+  - *"Two fourth places at the Olympics... it hurts. But it also shows I'm close."* — after his agonizing near-misses at MiCo 2026 [source](https://www.svt.se/sport/langdskidor)
+- **Personality / Public Persona:** A quietly powerful distance specialist who lets his skiing do the talking. His Sámi heritage adds a distinctive cultural dimension to Swedish skiing. Two agonizing 4th-place finishes at these Olympics have fueled a deep motivation for the relay — his best remaining chance at an Olympic medal. His 50km medals at the last two World Championships confirm he belongs at the absolute top of distance skiing. [source](https://en.wikipedia.org/wiki/William_Poromaa)
 
 ## Career Highlights
 - **Olympic Results:**

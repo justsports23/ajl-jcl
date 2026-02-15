@@ -3,8 +3,15 @@
 **Club/Team:** Piteå Elit SK | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Umeå, Västerbotten, Sweden [source](https://en.wikipedia.org/wiki/Johan_H%C3%A4ggstr%C3%B6m)
-- **Personality / Public Persona:** Reliable Swedish sprint/relay specialist from northern Sweden [source](https://www.fis-ski.com)
+- **Hometown / Place of Origin:** Umeå, Västerbotten, Sweden (northern Sweden) [source](https://en.wikipedia.org/wiki/Johan_H%C3%A4ggstr%C3%B6m)
+- **Family Background:** From Umeå in Västerbotten, northern Sweden — a region with a strong tradition in cross-country skiing. [source](https://en.wikipedia.org/wiki/Johan_H%C3%A4ggstr%C3%B6m)
+- **Childhood & Introduction to Skiing:** Developed through the Piteå Elit SK club in northern Sweden. Built his career as a sprint specialist before transitioning to a relay-focused role on the Swedish team. [source](https://en.wikipedia.org/wiki/Johan_H%C3%A4ggstr%C3%B6m)
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** A reliable, experienced relay workhorse for Sweden. At 33, he brings calm veteran presence to the first classic leg. While never a household name individually, his 8 World Cup podiums and consistent relay performances have made him an indispensable team member. Sweden trusts him to open relays because he rarely makes mistakes under pressure. [source](https://en.wikipedia.org/wiki/Johan_H%C3%A4ggstr%C3%B6m) [source](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=3500991)
 
 ## Career Highlights
 - **Olympic Results:**

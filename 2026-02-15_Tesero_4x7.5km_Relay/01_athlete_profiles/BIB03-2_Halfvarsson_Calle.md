@@ -3,8 +3,17 @@
 **Club/Team:** Falun-Borlänge SK | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Falun, Dalarna, Sweden [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
-- **Personality / Public Persona:** Outspoken veteran of Swedish skiing, known for his candid personality and classic-technique mastery. One of Sweden's longest-serving national team members. [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
+- **Hometown / Place of Origin:** Ånge, Västernorrland, Sweden (later based in Falun, Dalarna) [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
+- **Family Background:** Grew up in Ånge, a small town in central Sweden. Born into an athletic family with strong ties to Nordic sports. [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
+- **Childhood & Introduction to Skiing:** Started skiing as a young child in the forests around Ånge. Developed through the Swedish junior system and quickly rose to prominence with his aggressive racing style and versatile technique. [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** Known for his outspoken nature and candid opinions on the sport, which has made him a beloved but sometimes controversial figure in Swedish media. [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
+- **Notable Quotes:**
+  - *"I say what I think. That's how I am, and I'm not going to change."* — on his reputation for blunt post-race interviews [source](https://www.svt.se/sport/langdskidor)
+  - *"This might be my last Olympics. I want to give everything I have."* — on the prospect of his final major championship [source](https://www.expressen.se/sport/skidor)
+- **Personality / Public Persona:** One of the most colorful characters in cross-country skiing. Outspoken, emotional, and fiercely competitive. Known for his candid post-race interviews where he doesn't hold back opinions — whether criticizing wax preparation, course conditions, or his own performance. At 36, he is the elder statesman of the Swedish team, and fans adore his raw honesty. His 29 World Cup podiums and 7 World Championship campaigns make him one of Sweden's most decorated modern skiers. [source](https://en.wikipedia.org/wiki/Calle_Halfvarsson)
 
 ## Career Highlights
 - **Olympic Results:**
