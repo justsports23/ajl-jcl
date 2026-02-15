@@ -4,7 +4,14 @@
 
 ## Personal Bio
 - **Hometown / Place of Origin:** Gatineau, Quebec, Canada [source](https://en.wikipedia.org/wiki/Antoine_Cyr)
-- **Personality / Public Persona:** Bilingual (French/English) Canadian sprint specialist from Quebec [source](https://www.fis-ski.com)
+- **Family Background:** From Gatineau, Quebec — one of the few francophone strongholds in Canadian cross-country skiing. [source](https://en.wikipedia.org/wiki/Antoine_Cyr)
+- **Childhood & Introduction to Skiing:** Grew up in the Gatineau-Ottawa region, home of the famous Gatineau Loppet and extensive cross-country trail networks. Developed through the Nakkertok Nordic Ski Club, one of eastern Canada's strongest. [source](https://en.wikipedia.org/wiki/Antoine_Cyr)
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** Bilingual (French/English) Canadian sprint specialist from Quebec. The most experienced relay performer on the Canadian team — this is his 2nd Olympic relay. His 5th-place team sprint at 2022 Beijing shows he performs on the Olympic stage. Canada's anchor of consistency on the classic legs. [source](https://www.fis-ski.com) [source](https://en.wikipedia.org/wiki/Antoine_Cyr)
 
 ## Career Highlights
 - **Olympic Results:**

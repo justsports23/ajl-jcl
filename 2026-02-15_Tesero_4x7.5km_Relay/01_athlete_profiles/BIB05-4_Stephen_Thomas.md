@@ -4,7 +4,14 @@
 
 ## Personal Bio
 - **Hometown / Place of Origin:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Breakthrough Canadian skier at these Olympics [source](https://www.fis-ski.com)
+- **Family Background:** [DATA NOT FOUND]
+- **Childhood & Introduction to Skiing:** [DATA NOT FOUND]
+- **Partner / Relationship:** [DATA NOT FOUND]
+- **Children:** [DATA NOT FOUND]
+- **Education:** [DATA NOT FOUND]
+- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Notable Quotes:** [DATA NOT FOUND]
+- **Personality / Public Persona:** Breakthrough Canadian skier at these Olympics. His 9th place in the Olympic 10km freestyle is his best career result by a wide margin — an athlete peaking at the perfect moment. Anchoring Canada's relay on the freestyle closing leg, riding a wave of Olympic confidence. [source](https://www.fis-ski.com)
 
 ## Career Highlights
 - **Olympic Results:** 2026 Milano Cortina: 10km Interval Start Free — 9th (first Olympics)
