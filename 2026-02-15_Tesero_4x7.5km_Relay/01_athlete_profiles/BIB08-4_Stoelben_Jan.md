@@ -3,16 +3,20 @@
 **Club/Team:** SLV Ernstberg | **National Team Tier:** A Team (2025/2026)
 
 ## Personal Bio
-- **Hometown / Place of Origin:** [DATA NOT FOUND — FIS profile lists club as SLV Ernstberg, suggesting Eifel/Rhineland-Palatinate region]
+- **Hometown / Place of Origin:** Eifel/Rhineland-Palatinate region, Germany. Lives alone in a cabin in Norway during the training season. [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
 - **Family Background:** [DATA NOT FOUND]
-- **Childhood & Introduction to Skiing:** [DATA NOT FOUND]
+- **Childhood & Introduction to Skiing:** Was rejected from a sports boarding school as a teenager — a setback that only strengthened his determination. Moved to Norway alone to train, living in a remote cabin. [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
 - **Partner / Relationship:** [DATA NOT FOUND]
 - **Children:** [DATA NOT FOUND]
 - **Education:** [DATA NOT FOUND]
 - **Off-Snow Interests:** [DATA NOT FOUND]
 - **Physical Stats:** [DATA NOT FOUND]
-- **Notable Quotes:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Rising German sprint specialist who qualified 11th at the Olympic sprint in his first Games. Has a personal website at jan-stoelben.de. [source](https://www.jan-stoelben.de/news/)
+- **Notable Quotes:**
+  - *"Für mich ist es ein ganz tiefes Gefühl von Freiheit und Ruhe."* ("For me, it's a very deep feeling of freedom and peace.") — on living alone in his Norwegian cabin [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
+  - *"Meine größte Stärke ist der Wille, alles andere hinten anzustellen. Nicht in den Urlaub, kein Alkohol, dran zu glauben, dass es funktionieren kann. Diesen Sport zu lieben."* ("My greatest strength is the willpower to put everything else aside. No vacation, no alcohol, believing it can work. Loving this sport.") [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
+  - *"Das war ein Tritt in die Magengrube, aber ich kann mir keinen Vorwurf machen. Es gibt Dinge, die passieren halt."* ("That was a kick in the gut, but I can't blame myself. Some things just happen.") — on crashing with Janik Riebli at the 2025 World Championships [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
+  - *"Klaebo ist ein sehr großes Vorbild."* ("Klaebo is a very big role model.") [source](https://www.zdf.de/video/kurzfassungen/wintersport-biathlon-ski-alpin-skispringen-liveticker-ergebnisse-zeitplan-livestream-100/langlauf-tour-de-ski-stoelben-klaebo-interview-100)
+- **Personality / Public Persona:** Rising German sprint specialist who qualified 11th at the Olympic sprint in his first Games. Remarkably self-disciplined — moved to Norway alone as a young man after being rejected from a sports boarding school, living in a remote cabin to be closer to world-class training. Has a personal website at jan-stoelben.de. [source](https://www.jan-stoelben.de/news/) [source](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
 
 ## Current Rankings
 - FIS Distance Points: 58.51 (Rank ~194th) [source](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=216450)
@@ -77,3 +81,5 @@
 - [weltski.de – Jan Stölben](https://www.weltski.de/en/person/sp46/cross-country-skiing/pe935746/jan-stoelben/)
 - [Jan Stoelben Personal Website](https://www.jan-stoelben.de/news/)
 - [ProXCskiing – German National Team 2024/2025](https://www.proxcskiing.com/traditional-skiing/german-national-team-for-season-2024-2025/)
+- [Sportschau.de – Jan Stölben Olympic profile](https://www.sportschau.de/regional/swr/swr-wie-es-skilanglaeufer-jan-stoelben-an-die-weltspitze-geschafft-hat-102.html)
+- [ZDF – Stölben on Klaebo](https://www.zdf.de/video/kurzfassungen/wintersport-biathlon-ski-alpin-skispringen-liveticker-ergebnisse-zeitplan-livestream-100/langlauf-tour-de-ski-stoelben-klaebo-interview-100)
