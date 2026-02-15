@@ -3,15 +3,18 @@
 **Club/Team:** Fiamme Oro / G.S. Fiamme Gialle | **National Team Tier:** A-team (captain / team leader)
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Gressoney-Saint-Jean, Aosta Valley, Italy [source](https://en.wikipedia.org/wiki/Federico_Pellegrino)
-- **Family Background:** Grew up in the Italian Alps in the Aosta Valley, a traditionally strong area for Italian skiing [source](https://en.wikipedia.org/wiki/Federico_Pellegrino)
-- **Childhood & Introduction to Skiing:** [DATA NOT FOUND]
-- **Partner / Relationship:** [DATA NOT FOUND]
-- **Children:** [DATA NOT FOUND]
-- **Education:** [DATA NOT FOUND]
-- **Off-Snow Interests:** [DATA NOT FOUND]
-- **Notable Quotes:** [DATA NOT FOUND]
-- **Personality / Public Persona:** One of the most popular athletes in Italian winter sports. Known as the king of Italian cross-country skiing and a fierce sprint specialist. Passionate, emotional, beloved by Italian fans. This is likely his final Olympics and he has spoken publicly about wanting to end his career on a high at his home Games. [source](https://www.olympics.com/en/athletes/federico-pellegrino)
+- **Hometown / Place of Origin:** Born in Aosta, raised in Nus, Aosta Valley, Italy. Now resides in Gressoney-Saint-Jean, Aosta Valley. [source](https://en.wikipedia.org/wiki/Federico_Pellegrino)
+- **Family Background:** Second of three children. Parents are Maricla and Enrico Pellegrino. Has a brother Francesco and a sister Alice. Cousin of mountain running champion Xavier Chevrier. [source](https://kahawatungu.com/federico-pellegrino-siblings-meet-francesco-pellegrino-and-alice-pellegrino/) [source](https://en.wikipedia.org/wiki/Federico_Pellegrino)
+- **Childhood & Introduction to Skiing:** Put on skis for the first time at age 2 but rarely skied until age 4. His father Enrico attended the 1994 Lillehammer Olympics as a spectator and returned so passionate about cross-country skiing that he passed the love for the discipline on to his son. Federico grew up in Nus in the Aosta Valley, surrounded by the Italian Alps. [source](https://www.sportful.com/US/en/people/athletes/federico-pellegrino) [source](https://bellaitaliagoods.com/federico-pellegrino-italian-cross-country-skiing-champion/)
+- **Partner / Relationship:** Married to fellow cross-country skier and Olympian Greta Laurent. They first dated during their school-age careers, then reconnected and have been together since 2012. They married in Gressoney in spring 2021 (postponed from 2020 due to COVID-19). At the church exit, friends and family held skis raised to the sky. Greta retired from competitive skiing in 2023 to focus on the family. [source](https://en.wikipedia.org/wiki/Federico_Pellegrino) [source](https://www.nordicmag.info/en/cross-country-skiing-federico-pellegrino-and-greta-laurent-are-parents-for-the-second-time-0417/)
+- **Children:** Two sons: Alexis (born December 22, 2022) and Fabien (born April 16, 2025, at Beauregard Hospital in Aosta). [source](https://www.nordicmag.info/en/cross-country-skiing-federico-pellegrino-and-greta-laurent-are-parents-for-the-second-time-0417/) [source](https://en.sportnews.bz/artikel/wintersport/langlauf/nachwuchs-beim-weltmeister-fabien-ist-da)
+- **Education:** Currently enrolled in the Corso di Laurea in Economia e Management (Economics and Management degree) at LUISS Guido Carli University in Rome. Listed among LUISS Top Athletes. Plans to work in sports policy and athlete representation after retirement. [source](https://sport.luiss.it/people/pellegrino-federico/) [source](https://www.ilsussidiario.net/news/federico-pellegrino-si-ritira-dopo-le-olimpiadi-milano-cortina-2026-lamore-per-greta-laurent-e-i-loro-figli/2932134/)
+- **Off-Snow Interests:** Together with wife Greta, he has launched a lodge/hospitality project in Gressoney. Member of G.S. Fiamme Oro (Italian State Police sports group) since 2009. Before the 2018 Olympics, he told La Stampa he never leaves for competition without his stuffed animal -- the same one Greta has -- calling it a good-luck charm. [source](https://www.ilsussidiario.net/news/greta-laurent-chi-e-la-moglie-di-federico-pellegrino-da-colleghi-a-soci-tra-figli-e-nuovi-progetti/2931492/)
+- **Notable Quotes:**
+  - *"Let's see if it will be the perfect way to end my career, by giving my best, and in Italy with all the fans and family."* -- on his retirement plan for MiCo 2026 [source](https://www.fis-ski.com/cross-country/news/2024-25/tour-extra-special-as-pellegrino-ita-prepares-for-perfect-way-to-end-career)
+  - *"I learned the news with great joy and emotion... I'm proud to be the first athlete from the Valle d'Aosta to occupy this role. I don't think there could have been a better way to end my cross-country skiing career than at the Milan-Cortina 2026 Games."* -- on being named Italy's flag bearer [source](https://www.nordicmag.info/en/cross-country-skiing-federico-pellegrino-named-italys-flag-bearer-for-the-2026-olympic-games-in-milan-cortina-great-emotion-and-pride-1216/)
+  - *"At the end of the season I had a couple of weeks' break and at the same time my second child was born, so that's when the challenge became a little more difficult than in the past."* -- on balancing fatherhood and training [source](https://www.olympics.com/en/milano-cortina-2026/news/federico-pellegrino-exclusive-milano-cortina-2026-cross-country-skiing)
+- **Personality / Public Persona:** One of the most popular athletes in Italian winter sports. Known as "Chicco" and the king of Italian cross-country skiing. Italy's flag bearer at the MiCo 2026 Opening Ceremony. Described as "a silent and surgical architect" by Technogym. Passionate, emotional, beloved by fans. A methodical and disciplined competitor who has carried Italian cross-country skiing on his shoulders for nearly two decades. Announced his retirement date as February 22, 2026, on Instagram, making MiCo 2026 his farewell. [source](https://www.olympics.com/en/athletes/federico-pellegrino) [source](https://www.technogym.com/en-US/stories/federico-pellegrino-milano-cortina/) [source](https://www.olympics.com/en/milano-cortina-2026/news/federico-pellegrino-exclusive-milano-cortina-2026-cross-country-skiing)
 
 ## Current Rankings
 - FIS Sprint Points: Among the all-time leaders — historically top-ranked sprinter
@@ -69,3 +72,15 @@
 - [FIS Profile](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=3290326)
 - [Wikipedia — Federico Pellegrino](https://en.wikipedia.org/wiki/Federico_Pellegrino)
 - [Olympics.com — Athlete Profile](https://www.olympics.com/en/athletes/federico-pellegrino)
+- [Olympics.com — Dream farewell on home snow](https://www.olympics.com/en/milano-cortina-2026/news/federico-pellegrino-exclusive-milano-cortina-2026-cross-country-skiing)
+- [Sportful — Federico Pellegrino](https://www.sportful.com/US/en/people/athletes/federico-pellegrino)
+- [Bella Italia Goods — Cross-country skiing champion](https://bellaitaliagoods.com/federico-pellegrino-italian-cross-country-skiing-champion/)
+- [Kahawatungu — Siblings](https://kahawatungu.com/federico-pellegrino-siblings-meet-francesco-pellegrino-and-alice-pellegrino/)
+- [Nordic Mag — Flag bearer](https://www.nordicmag.info/en/cross-country-skiing-federico-pellegrino-named-italys-flag-bearer-for-the-2026-olympic-games-in-milan-cortina-great-emotion-and-pride-1216/)
+- [Nordic Mag — Second child](https://www.nordicmag.info/en/cross-country-skiing-federico-pellegrino-and-greta-laurent-are-parents-for-the-second-time-0417/)
+- [SportNews.bz — Fabien born](https://en.sportnews.bz/artikel/wintersport/langlauf/nachwuchs-beim-weltmeister-fabien-ist-da)
+- [LUISS Sport — Pellegrino profile](https://sport.luiss.it/people/pellegrino-federico/)
+- [Il Sussidiario — Retirement and family](https://www.ilsussidiario.net/news/federico-pellegrino-si-ritira-dopo-le-olimpiadi-milano-cortina-2026-lamore-per-greta-laurent-e-i-loro-figli/2932134/)
+- [Technogym — Empowering Human Performance](https://www.technogym.com/en-US/stories/federico-pellegrino-milano-cortina/)
+- [FIS — Perfect way to end career](https://www.fis-ski.com/cross-country/news/2024-25/tour-extra-special-as-pellegrino-ita-prepares-for-perfect-way-to-end-career)
+- [MiCo 2026 CONI — Athlete card](https://milanocortina2026.coni.it/en/italia-team/team/scheda_atleta/1698:Federico_PELLEGRINO.html)

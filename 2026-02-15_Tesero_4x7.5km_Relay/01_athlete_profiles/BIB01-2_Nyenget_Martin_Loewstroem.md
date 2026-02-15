@@ -4,12 +4,12 @@
 
 ## Personal Bio
 - **Hometown / Place of Origin:** Lillehammer, Norway — "This is where I do all my training so this is a fantastic day," he said after winning the World Cup 10km freestyle in his hometown. [source](https://www.fis-ski.com/cross-country/news/2024-25/nyenget-is-lillehammer-s-main-man-as-norway-dominate-10km)
-- **Family Background:** [DATA NOT FOUND]
-- **Childhood & Introduction to Skiing:** Grew up in the Lillehammer area and joined Lillehammer Skiklubb. Competed at the Junior World Championships from 2012, winning a bronze medal in the relay at the 2012 Junior World Championships. Later recorded two 6th places at the 2014 Junior World Championships and a 5th place at the 2015 Junior World Championships. [source](https://en.wikipedia.org/wiki/Martin_L%C3%B8wstr%C3%B8m_Nyenget)
-- **Partner / Relationship:** [DATA NOT FOUND]
-- **Children:** [DATA NOT FOUND]
+- **Family Background:** **Father: Trond Nyenget** — passed away in February 2022 at age 56. Martin said: *"He meant everything to me... Both he and mom have devoted all their time to supporting me and my brother. It is my role model who has passed away."* His father's family side is from Levanger, about an hour north of Trondheim, making Martin "half-Trønder." **Uncle: Tomas Aulin** (age 58), who officiated Martin's wedding. [source](https://www.nrk.no) [source](https://www.vg.no)
+- **Childhood & Introduction to Skiing:** Grew up in the Lillehammer area and joined Lillehammer Skiklubb. Competed at the Junior World Championships from 2012, winning a bronze medal in the relay. Later recorded two 6th places at the 2014 Junior Worlds and a 5th at 2015 Junior Worlds. [source](https://en.wikipedia.org/wiki/Martin_L%C3%B8wstr%C3%B8m_Nyenget)
+- **Partner / Relationship:** Married to **Synne Baklid Nyenget** since May 2023 (113-guest wedding). Synne is a **firefighter** at Asker og Bærum fire and rescue service and a former talented orienteering runner. They met as teenagers through sports — Martin deliberately rerouted his training runs through Konnerud (where Synne is from) hoping she would join him. She said: *"Det var definitivt Martin som sjekket opp meg"* ("It was definitely Martin who hit on me"). [source](https://www.vg.no)
+- **Children:** One child, born April 2023. Name not publicly disclosed. He has spoken about the "dad effect" boosting his skiing performance. [source](https://www.dagbladet.no)
 - **Education:** [DATA NOT FOUND]
-- **Off-Snow Interests:** [DATA NOT FOUND]
+- **Off-Snow Interests:** Family life is central to his off-snow identity. *"I have a wife who takes the load, and then it's up to me to try to ski fast."* [source](https://www.nrk.no)
 - **Notable Quotes:**
   - *"The longer I keep going in Cross-Country skiing, the more fun I have racing. The training part is not great anymore."* — [source](https://www.fis-ski.com/cross-country/news/2025-26/Weeks-of-training-like-crazy-pay-off-as-Nyenget-wins-in-Oberhof)
   - *"We really push each other to be as good as possible."* — on the competitive dynamic within the Norwegian team [source](https://fasterskier.com/2025/03/fast-tracks-world-champs-martin-loewstroem-nyenget-we-really-push-each-other-to-be-as-good-as-possible/)

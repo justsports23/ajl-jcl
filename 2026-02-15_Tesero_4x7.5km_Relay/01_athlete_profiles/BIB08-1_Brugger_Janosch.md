@@ -11,7 +11,9 @@
 - **Education:** [DATA NOT FOUND]
 - **Off-Snow Interests:** Road cycling, football, sports, relaxing, and eating. [source](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=178156)
 - **Physical Stats:** 184 cm tall, 76 kg. [source](https://www.xc-ski.de/events/langlauf-weltcup/portraits/national/brugger-janosch-ger-portrait/)
-- **Notable Quotes:** [DATA NOT FOUND]
+- **Notable Quotes:**
+  - *"Ich gehe energiegeladen in die Tour de Ski."* ("I'm going into the Tour de Ski with energy.") [source](https://www.badische-zeitung.de/schwarzwaelder-skilanglaeufer-janosch-brugger-ich-gehe-energiegeladen-in-die-tour-de-ski)
+  - *"Die letzte Saison war wohl meine bisher schwächste."* ("The last season was probably my weakest so far.") [source](https://www.badische-zeitung.de/janosch-brugger-die-letzte-saison-war-wohl-meine-bisher-schwaechste)
 - **Personality / Public Persona:** Described as a versatile skier comfortable in both sprint and distance formats; famously disqualified during the 2025/26 Tour de Ski for using skating technique in the classic section. [source](https://www.nordicmag.info/en/cross-country-skiing-tour-de-ski-why-germanys-janosch-brugger-was-disqualified-0104/)
 
 ## Current Rankings
@@ -74,3 +76,5 @@
 - [NordicMag – Tour de Ski Disqualification](https://www.nordicmag.info/en/cross-country-skiing-tour-de-ski-why-germanys-janosch-brugger-was-disqualified-0104/)
 - [ProXCskiing – German Team for Oberhof](https://www.proxcskiing.com/traditional-skiing/german-national-team-for-the-oberhof-world-cup/)
 - [ProXCskiing – German National Team 2025/2026](https://www.proxcskiing.com/traditional-skiing/german-national-cross-country-ski-team-for-season-2025-2026/)
+- [Badische Zeitung – Tour de Ski interview](https://www.badische-zeitung.de/schwarzwaelder-skilanglaeufer-janosch-brugger-ich-gehe-energiegeladen-in-die-tour-de-ski)
+- [Badische Zeitung – Season review](https://www.badische-zeitung.de/janosch-brugger-die-letzte-saison-war-wohl-meine-bisher-schwaechste)

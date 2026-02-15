@@ -11,8 +11,10 @@
 - **Education:** [DATA NOT FOUND]
 - **Off-Snow Interests:** [DATA NOT FOUND]
 - **Physical Stats:** [DATA NOT FOUND]
-- **Notable Quotes:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Emerging distance talent in Finnish cross-country skiing. Known for his U23 World Championship gold in 15km classic at Lygna 2022. Steady improver. [source](https://www.proxcskiing.com/traditional-skiing/arsi-ruuskanen-gold-at-the-u23-world-ski-championships/)
+- **Notable Quotes:**
+  - *"Se on tuonut pientä itseluottamusta. Kertoo siitä, että perussuorittamiseni on ok-tasolla, mutta jos haluan pärjätä täällä, niin täytyy saada kuntopiikki ja onnistumaan kaikki."* ("It has brought some self-confidence. It shows that my basic performance level is at an okay level, but if I want to perform well here, I need to get a fitness peak and make everything work.") [source](https://yle.fi/a/74-20208714/64-3-289607)
+  - *"Perinteisestä pitää tulla hyvissä asemissa ja säästää voimia vapaalle. Varmasti on kovaa ajoa ja vapaan alku on ratkaiseva."* ("From the classic you have to come in good positions and save energy for the free. There will definitely be hard racing and the start of the free is crucial.") — on relay strategy [source](https://yle.fi/a/74-20208714/64-3-289607)
+- **Personality / Public Persona:** Emerging distance talent in Finnish cross-country skiing. Known for his U23 World Championship gold in 15km classic at Lygna 2022. Steady improver with a realistic and analytical approach to his own performance. [source](https://www.proxcskiing.com/traditional-skiing/arsi-ruuskanen-gold-at-the-u23-world-ski-championships/) [source](https://yle.fi/a/74-20208714/64-3-289607)
 
 ## Current Rankings
 - FIS Distance Points: 20.21 (Rank 39th) — 5th FIS points list 2025/26 [source](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=208085&type=fispoints)
@@ -73,3 +75,4 @@
 - [ProXCskiing – Finnish Teams 2025/2026](https://www.proxcskiing.com/traditional-skiing/finnish-cross-country-skiing-teams-for-season-2025-2026/)
 - [Vauhti Speed – Arsi Ruuskanen](https://vauhti.fi/en/arsi-ruuskanen/)
 - [NordicMag – Olympic Selection](https://www.nordicmag.info/en/cross-country-skiing-nordic-combined-finlands-johanna-matintalo-arsi-ruuskanen-and-eero-hirvonen-selected-for-the-olympic-games-in-milan-cortina-1219/)
+- [Yle – Pre-Olympic interview](https://yle.fi/a/74-20208714/64-3-289607)

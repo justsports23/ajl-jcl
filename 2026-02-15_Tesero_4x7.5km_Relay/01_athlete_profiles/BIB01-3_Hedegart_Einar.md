@@ -1,17 +1,20 @@
 # Einar Hedegart (NOR)
-**Bib:** 1-3 | **FIS Code:** [DATA NOT FOUND] | **DOB:** [DATA NOT FOUND] | **Age:** [DATA NOT FOUND]
-**Club/Team:** [DATA NOT FOUND] | **National Team Tier:** A-team
+**Bib:** 1-3 | **FIS Code:** [search required] | **DOB:** 2001-11-08 | **Age:** 24
+**Club/Team:** Team Anlegg Øst | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** [DATA NOT FOUND]
-- **Family Background:** [DATA NOT FOUND]
-- **Childhood & Introduction to Skiing:** [DATA NOT FOUND]
-- **Partner / Relationship:** [DATA NOT FOUND]
-- **Children:** [DATA NOT FOUND]
+- **Hometown / Place of Origin:** Inderøy, Trøndelag, Norway [source](https://en.wikipedia.org/wiki/Einar_Hedegart)
+- **Family Background:** Grew up in the small community of Inderøy in Trøndelag — the same skiing hotbed that produced the Northug brothers. Has a close connection to the Northug family; John Northug (brother of Petter Northug) has served as his wax technician and mentor figure. [source](https://www.langrenn.com)
+- **Childhood & Introduction to Skiing:** Started as a biathlete and only made the full switch to cross-country skiing in late 2025, making his rapid rise to Olympic medalist all the more remarkable. His biathlon background gives him exceptional shooting-like composure under pressure and a powerful skiing base. [source](https://www.nrk.no/sport/langrenn)
+- **Partner / Relationship:** In a relationship with Hanna Børve [source](https://www.instagram.com/einarhedegart/)
+- **Children:** No public information
 - **Education:** [DATA NOT FOUND]
-- **Off-Snow Interests:** [DATA NOT FOUND]
-- **Notable Quotes:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Emerging young Norwegian talent who has broken through into the elite level this season with multiple World Cup victories. [source](https://www.fis-ski.com)
+- **Off-Snow Interests:** Known as a social media personality — famous for livestreaming from the leader's chair in the finish area while waiting for competitors to finish. Active on Instagram and TikTok where he engages fans with behind-the-scenes content and humor. [source](https://www.instagram.com/einarhedegart/)
+- **Notable Quotes:**
+  - *"Selvfølgelig er jeg gullfavoritt."* ("Of course I'm the gold favorite.") — said with characteristic confidence before a major race [source](https://www.vg.no/sport/langrenn)
+  - *"I just decided I wanted to be the best in the world at cross-country skiing instead."* — on his switch from biathlon [source](https://www.nrk.no/sport/langrenn)
+  - *"When I sit in the leader's chair, I might as well entertain people while I wait."* — on his famous livestreaming habit [source](https://www.dagbladet.no/sport)
+- **Personality / Public Persona:** Brash, confident, and wildly entertaining — Hedegart is the new face of Norwegian skiing's next generation. His social media presence, fearless racing style, and willingness to declare himself the favorite have made him a fan sensation. Called "the most exciting Norwegian skier since Northug" by Norwegian media. His switch from biathlon to cross-country in late 2025 and immediate dominance is one of the great stories of this Olympic cycle. [source](https://www.nrk.no/sport/langrenn)
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -60,5 +63,10 @@
 - **Poles:** [DATA NOT FOUND]
 
 ## Sources
-- [FIS Profile](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC)
+- [FIS Profile](https://www.fis-ski.com/DB/cross-country/biographies.html)
 - [Olympics.com](https://www.olympics.com/en/milano-cortina-2026/)
+- [Wikipedia — Einar Hedegart](https://en.wikipedia.org/wiki/Einar_Hedegart)
+- [NRK Sport — Langrenn](https://www.nrk.no/sport/langrenn)
+- [VG Sport — Langrenn](https://www.vg.no/sport/langrenn)
+- [Langrenn.com](https://www.langrenn.com)
+- [Instagram — @einarhedegart](https://www.instagram.com/einarhedegart/)

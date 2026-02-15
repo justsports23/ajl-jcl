@@ -11,8 +11,11 @@
 - **Education:** Graduate student at the University of Alaska Fairbanks (UAF), where he competed in NCAA cross-country skiing and cross-country running for 5 seasons (2020-2024). GNAC All-Academic honoree in 2020, 2021, 2022, and 2023. [source](https://alaskananooks.com/sports/mens-cross-country/roster/mike-ophoff/3696)
 - **Off-Snow Interests:** Cross-country running — won the 2022 Equinox Marathon (26.2 miles) in 2 hours, 55 minutes, 58 seconds, though he's admitted he's "much more comfortable on snow than grass." [source](https://www.newsminer.com/sports/equinox-marathons-top-finishers-true-to-events-roots/article_a932e7c6-36c8-11ed-a1b6-b7fc42384d9b.html)
 - **Physical Stats:** 6'1" (185 cm). [source](https://alaskananooks.com/sports/mens-cross-country/roster/mike-ophoff/3696)
-- **Notable Quotes:** [DATA NOT FOUND]
-- **Personality / Public Persona:** Unique path to the Olympics — a Dutch-born, Czech-raised athlete who developed his skiing through American college racing at the University of Alaska Fairbanks. All-American and marathon champion. [source](https://alaskananooks.com/sports/mens-cross-country/roster/mike-ophoff/3696)
+- **Notable Quotes:**
+  - *"Nejlíp se závodí, když není žádný stres. Ale nervózní budu."* ("Racing works best when there's no stress. But I will be nervous.") — ahead of the Olympics [source](https://www.trutnovinky.cz/mike-ophoff-nejlip-se-zavodi-kdyz-neni-zadny-stres-ale-nervozni-budu/)
+  - *"Být ve třicítce by pro mě byl úspěch."* ("Being in the top thirty would be a success for me.") [source](https://www.trutnovinky.cz/mike-ophoff-nejlip-se-zavodi-kdyz-neni-zadny-stres-ale-nervozni-budu/)
+  - *"Nejlíp klasicky a ještě když je to dlouhý."* ("Best classical style, especially when it's long distance.") — on his preferred format [source](https://www.trutnovinky.cz/mike-ophoff-nejlip-se-zavodi-kdyz-neni-zadny-stres-ale-nervozni-budu/)
+- **Personality / Public Persona:** Unique path to the Olympics — a Dutch-born, Czech-raised athlete who developed his skiing through American college racing at the University of Alaska Fairbanks. All-American and marathon champion. Self-aware and humble about his level, with realistic goals for the Olympic stage. [source](https://alaskananooks.com/sports/mens-cross-country/roster/mike-ophoff/3696) [source](https://www.trutnovinky.cz/mike-ophoff-nejlip-se-zavodi-kdyz-neni-zadny-stres-ale-nervozni-budu/)
 
 ## Current Rankings
 - FIS Distance Points: 78.35 (Rank 328th — 1st list 2025/26); improved to ~46.27 by mid-season [source](https://www.fis-ski.com/DB/general/athlete-biography.html?sector=CC&competitorid=208806&type=fispoints)
@@ -74,3 +77,4 @@
 - [the-sports.org – Mike Ophoff](https://www.the-sports.org/mike-ophoff-cross-country-skiing-spf576330.html)
 - [Newsminer – Equinox Marathon](https://www.newsminer.com/sports/equinox-marathons-top-finishers-true-to-events-roots/article_a932e7c6-36c8-11ed-a1b6-b7fc42384d9b.html)
 - [RMISASkiing – Mike Ophoff](http://www.rmisaskiing.com/skier.php?s=2239)
+- [TrutNoviny.cz – Olympic interview](https://www.trutnovinky.cz/mike-ophoff-nejlip-se-zavodi-kdyz-neni-zadny-stres-ale-nervozni-budu/)
