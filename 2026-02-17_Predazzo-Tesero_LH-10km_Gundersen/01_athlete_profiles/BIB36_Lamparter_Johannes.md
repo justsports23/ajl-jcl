@@ -3,16 +3,18 @@
 **Club/Team:** Nordic Team Absam | **National Team Tier:** A-team
 
 ## Personal Bio
-- **Hometown / Place of Origin:** Absam, Tyrol, Austria [source](https://en.wikipedia.org/wiki/Johannes_Lamparter)
-- **Family Background:** Hails from the Tyrolean region of Austria. Was an Austrian Champion in weightlifting in 2018, competing in the lightest category — lifted weights until he was 14. [source](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
-- **Childhood & Introduction to Skiing:** Grew up in the heart of Austrian Nordic skiing country in Tyrol. [source](https://en.wikipedia.org/wiki/Johannes_Lamparter)
-- **Partner / Relationship:** [DATA NOT FOUND]
-- **Children:** [DATA NOT FOUND]
-- **Education:** [DATA NOT FOUND]
-- **Off-Snow Interests:** Former competitive weightlifter; became Austrian champion at age 16. [source](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
+- **Hometown / Place of Origin:** Rum, near Absam, Tyrol, Austria. Known as "Jo" among friends. [source](https://en.wikipedia.org/wiki/Johannes_Lamparter) [source](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Family Background:** Grew up in the Tyrolean Alps. Was first introduced to ski jumping by his cousin, who was already doing it, and he immediately took to the sport. His coach at Nordic Team Absam, Andi Felder, proposed he add cross-country skiing to become a Nordic Combined athlete. [source](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Childhood & Introduction to Skiing:** Started at Nordic Team Absam at age 6 under coach Andi Felder. Was inspired as a small boy when he met Austrian Nordic Combined heroes Christoph Bieler and Willi Denifl at the famed "Kids Meet their Idols" event. Later attended the prestigious ski gymnasium in Stams, Tyrol. [source](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en) [source](https://www.fis-ski.com/nordic-combined/news/2023-24/live-talk-with-johannes-lamparter)
+- **Partner / Relationship:** In a relationship with Lena Neuhauser — openly shares their relationship on social media. [source](https://wiki-en.org/who-is-johannes-lamparter-freundin-lena-neuhauser-meet-the-olympian-on-instagram/)
+- **Children:** No public information
+- **Education:** Attended the ski gymnasium in Stams, Tyrol (Austria's elite winter sports academy). [source](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Off-Snow Interests:** Passionate weightlifter — competed until age 14 and became Austrian Champion in the lightest category in 2018. Also loves spending time in the mountains: cycling, hiking, and skiing for leisure. Has said: *"Without Nordic Combined I would be a weightlifter today!"* [source](https://www.fis-ski.com/nordic-combined/news/2023-24/live-talk-with-johannes-lamparter) [source](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
 - **Notable Quotes:**
-  - [DATA NOT FOUND]
-- **Personality / Public Persona:** Described as the most consistent athlete in the field, with a nearly 50% podium rate in individual World Cup events across both hill sizes. Known for his physical strength and all-around ability. [source](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
+  - *"The whole summer I have been thinking about this season and the Olympic Games. I have been really motivated and working really professionally all summer. I'm happy with the start — it was perfect."* — after winning the World Cup opener in Ruka, November 2025 [source](https://www.fis-ski.com/nordic-combined/news/2025-26/lamparter-wins-nordic-combined-opener-in-ruka)
+  - *"It is probably the most emotional place to win. We train here all the time and Stefan is always with me too so it's special to stand on the podium together."* — after winning a Mass Start at his home venue in Seefeld [source](https://www.fis-ski.com/nordic-combined/news/2025-26/seefeld-local-lamparter-begins-triple-bid-with-mass-start-win)
+  - *"Without Nordic Combined I would be a weightlifter today! I lifted weights until I was 14 — a lot of people don't know this."* — FIS Instagram Live Talk [source](https://www.fis-ski.com/nordic-combined/news/2023-24/live-talk-with-johannes-lamparter)
+- **Personality / Public Persona:** Described as the "natural heir to the throne" after the retirement of Norway's dominant generation. Has no real weakness: reliable ski jumping, elite cross-country, and proven big-event mentality. Known for professional dedication and meticulous summer preparation. Fulfilled a childhood dream when he first wore the yellow World Cup leader bib at age 20 in Klingenthal. Nearly 50% podium rate in individual World Cup events. [source](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals) [source](https://www.nordicmag.info/en/nordic-combined-johannes-lamparter-gets-olympic-season-off-to-a-flying-start-in-ruka-1128/)
 
 ## Current Rankings
 - FIS Nordic Combined Points: [DATA NOT FOUND]
@@ -66,3 +68,9 @@
 - [Olympics.com Profile](https://www.olympics.com/en/athletes/johannes-lamparter)
 - [NBC Olympics — Nordic Combined Preview](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
 - [FIS — World Cup Standings](https://www.fis-ski.com/DB/nordic-combined/cup-standings.html)
+- [JumpandReach — Lamparter Team Profile](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- [FIS — Live Talk with Lamparter](https://www.fis-ski.com/nordic-combined/news/2023-24/live-talk-with-johannes-lamparter)
+- [FIS — Lamparter Wins Ruka Opener](https://www.fis-ski.com/nordic-combined/news/2025-26/lamparter-wins-nordic-combined-opener-in-ruka)
+- [FIS — Seefeld Mass Start Win](https://www.fis-ski.com/nordic-combined/news/2025-26/seefeld-local-lamparter-begins-triple-bid-with-mass-start-win)
+- [Nordic Mag — Lamparter Olympic Season Start](https://www.nordicmag.info/en/nordic-combined-johannes-lamparter-gets-olympic-season-off-to-a-flying-start-in-ruka-1128/)
+- [Lamparter Girlfriend Info](https://wiki-en.org/who-is-johannes-lamparter-freundin-lena-neuhauser-meet-the-olympian-on-instagram/)
