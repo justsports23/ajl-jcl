@@ -42,6 +42,44 @@
 - [Wikipedia — Nordic Combined at the 2026 Winter Olympics](https://en.wikipedia.org/wiki/Nordic_combined_at_the_2026_Winter_Olympics)
 - [Wikipedia — Giuseppe Dal Ben Ski Jumping Arena](https://en.wikipedia.org/wiki/%22Giuseppe_Dal_Ben%22_Ski_Jumping_Arena)
 
+## Athlete Profile Sources
+
+### Wikipedia
+- [Johannes Lamparter](https://en.wikipedia.org/wiki/Johannes_Lamparter)
+- [Jens Lurås Oftebro](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro)
+- [Einar Lurås Oftebro](https://en.wikipedia.org/wiki/Einar_Lur%C3%A5s_Oftebro)
+- [Julian Schmid](https://en.wikipedia.org/wiki/Julian_Schmid)
+- [Vinzenz Geiger](https://en.wikipedia.org/wiki/Vinzenz_Geiger)
+- [Johannes Rydzek](https://en.wikipedia.org/wiki/Johannes_Rydzek)
+- [Akito Watabe](https://en.wikipedia.org/wiki/Akito_Watabe)
+- [Kristjan Ilves](https://en.wikipedia.org/wiki/Kristjan_Ilves)
+- [Ilkka Herola](https://en.wikipedia.org/wiki/Ilkka_Herola)
+- [Eero Hirvonen](https://en.wikipedia.org/wiki/Eero_Hirvonen)
+- [Alessandro Pittin](https://en.wikipedia.org/wiki/Alessandro_Pittin)
+- [Samuel Costa](https://en.wikipedia.org/wiki/Samuel_Costa)
+- [Ryota Yamamoto](https://en.wikipedia.org/wiki/Ryota_Yamamoto_(Nordic_combined))
+- [Laurent Muhlethaler](https://en.wikipedia.org/wiki/Laurent_Muhlethaler)
+
+### Olympics.com
+- [Olympics.com — Lamparter Profile](https://www.olympics.com/en/athletes/johannes-lamparter)
+- [Olympics.com — Geiger Profile](https://www.olympics.com/en/athletes/geiger-1)
+- [Olympics.com — Geiger "Zen Warrior" Feature](https://www.olympics.com/en/milano-cortina-2026/news/nordic-combined-vinzenz-geiger-the-zen-warrior)
+- [Olympics.com — Schmid Profile](https://www.olympics.com/en/athletes/julian-schmid)
+
+### FIS Athlete Profiles
+- See `fis_links.md` for complete FIS profile links for all 36 athletes
+
+### Other Athlete Sources
+- [Olympedia — Jens Lurås Oftebro](https://www.olympedia.org/athletes/148708)
+- [Red Bull — Vinzenz Geiger](https://www.redbull.com/int-en/athlete/vinzenz-geiger)
+- [Red Bull — Kristjan Ilves](https://www.redbull.com/int-en/athlete/kristjan-ilves)
+- [Swix — Kristjan Ilves Ambassador](https://swixsport.com/eu/article/ambassadors/kristjan-ilves)
+- [Team Ilves](https://team-ilves.ee/index.php/2018/05/30/about-us/)
+- [NBC Olympics — Nordic Combined Preview](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-brothers-headline-race-nordic-combined-medals)
+- [Nordic Mag — Ilves Jumping Surprise](https://www.nordicmag.info/en/2026-olympics-nordic-combined-the-big-surprise-kristjan-ilves-in-the-lead-after-the-small-jump-gundersen-0211/)
+- [ESPN — Oftebro Gold](https://www.espn.com/olympics/story/_/id/47896682/jens-luraas-oftebro-overcomes-penalty-nordic-combined-gold)
+- [US Ski and Snowboard](https://usskiandsnowboard.org)
+
 ## Weather Sources
 
 - [Meteored — Predazzo Forecast](https://www.theweather.com/predazzo.htm)
